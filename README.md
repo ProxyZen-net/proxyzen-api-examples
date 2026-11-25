@@ -32,7 +32,7 @@ The examples only **read** data by default. Lines that spend money (buying proxi
 **Targeting residential and mobile proxies:** add options to the username — `USERNAME-country-DE`, `-state-<code>`, `-city-<code>`, `-asn-<code>`, and `-session-ab12cd-time-10` for one IP for 10 minutes. Codes come from `GET /traffic/countries/DE?type=residential`.
 
 ## Resell under your own brand
-Want a Telegram shop instead of writing code? Use the free [ProxyZen Telegram Shop](https://github.com/proxyzen/proxyzen-telegram-shop) script — install it in 5 minutes and set your own prices.
+Want a Telegram shop instead of writing code? Use the free [ProxyZen Telegram Shop](https://github.com/ProxyZen-net/proxyzen-telegram-shop) script — install it in 5 minutes and set your own prices.
 
 ---
 
